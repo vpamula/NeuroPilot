@@ -1,0 +1,22 @@
+# macOS system files
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+env/
+*.ipynb_checkpoints
+
+# C++
+build/
+*.o
+*.out
+*.log
+*.a
+*.so
+*.dylib
+cmake-build-*/
+
+# VSCode
+.vscode/
